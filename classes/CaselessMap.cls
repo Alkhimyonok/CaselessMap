@@ -1,7 +1,3 @@
-/**
- * Created by VeronikaAlkhimenok on 6/11/2021.
- */
-
 public class CaselessMap {//
 	@TestVisible private Map<String, SObject> innerMap;
 
