@@ -1,7 +1,3 @@
-/**
- * Created by VeronikaAlkhimenok on 6/14/2021.
- */
-
 @IsTest
 private class CaselessMapTest {
 	private static final Integer MAP_SIZE = 2000;
